@@ -1,5 +1,4 @@
-// TODO: Update to match your plugin's package name.
-package org.godotengine.plugin.android.template
+package org.godotengine.plugin.android.godot_firebase_plugin
 
 import android.util.Log
 import android.widget.Toast
